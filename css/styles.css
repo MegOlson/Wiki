@@ -1,0 +1,17 @@
+.column1 {
+  float: right;
+}
+.column2 {
+  float: right;
+}
+.column3 {
+  float: right;
+}
+.right {
+  float: right;
+  padding-top: 25px;
+}
+.left {
+  float: left;
+  padding-top: -25px;
+}
