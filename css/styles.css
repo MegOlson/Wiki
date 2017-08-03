@@ -10,12 +10,32 @@
 .right {
   float: right;
   padding-top: 25px;
+
 }
 .left {
   float: left;
   padding-top: -25px;
+
 }
 .sidebar {
   float: left;
   width: 10%;
+}
+.row {
+  padding: 5px;
+  margin: 2px;
+}
+.col-md-6 {
+  color:
+}
+img {
+  width: 25%;
+  height: 25%;
+  float: right;
+}
+.panel-title {
+  border: 2px solid green;
+  padding: 5px;
+
+
 }
